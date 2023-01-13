@@ -13,7 +13,7 @@ pip install -r requirment.txt
 
 ### 数据预处理
 ```
-python pre_processing.py
+python pre_process.py
 ```
 
 ### 用training_set训练网络
